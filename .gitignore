@@ -33,10 +33,6 @@ env/
 *.swo
 *~
 
-# Generated outputs
-generated/*/
-!generated/.gitkeep
-
 # Environment variables
 .env
 .env.local
